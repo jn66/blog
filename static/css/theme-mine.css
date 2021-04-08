@@ -109,3 +109,9 @@ a:hover {
 .highlightable{
     padding-top: 0;
 }
+body{
+    font-size: 22px !important;
+}
+#body-inner p{
+    line-height: 40px;
+}
