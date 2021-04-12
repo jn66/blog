@@ -9,6 +9,7 @@ chapter: true
 
 # ERP电子沙盘创业大赛
 
+<<<<<<< Updated upstream
 > ERP电子沙盘创业大赛是一个颇具互动和对抗性的模拟经营的比赛，参赛团队4-6人一队，与其他队伍真实模拟企业经营，进行企业商战，博主在大一偶然间阴差阳错参加了此项比赛，从此踏上了从校赛--省赛--国赛--指导其他团队进取的道路。
 
 ![校赛开幕](https://cdn.jsdelivr.net/gh/jn66/blogimg@master/2021-04-08-c0e7.jpg)
@@ -55,4 +56,26 @@ chapter: true
 
 
  
+=======
+天气不错
+>>>>>>> Stashed changes
 
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
+
+{{< tabs >}}
+{{% tab name="python" %}}
+```python
+print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="R" %}}
+```R
+> print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="Bash" %}}
+```Bash
+echo "Hello World!"
+```
+{{% /tab %}}
+{{< /tabs >}}
